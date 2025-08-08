@@ -16,8 +16,10 @@ function checkPalindrome() {
 
     if (original === reversed) {
       result.textContent = `${input} is a palindrome.`;
+      result.style.color = "#39FF14";
     } else {
       result.textContent = `${input} is not a palindrome.`;
+      result.style.color = "#FF073A";
     }
   }
 }
