@@ -12,7 +12,7 @@ A simple and responsive web app that checks if a word, phrase, or sentence is a 
 
 ## Demo
 
-[Live Demo on Netlify](jb-palindrome-checker.netlify.app)
+jb-palindrome-checker.netlify.app
 
 ## How to Use
 
